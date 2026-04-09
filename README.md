@@ -8,7 +8,7 @@ O arquivo etapa5.ipynb é um notebook Python que integra dados criminais de Pass
 A análise exploratória indicou que a temperatura média apresenta leve correlação positiva com o número de ocorrências, sugerindo que dias mais quentes podem estar associados a maior incidência de crimes. Por outro lado, a precipitação demonstrou tendência de correlação negativa, indicando possível redução de ocorrências em dias chuvosos. No entanto, as correlações observadas não são fortes, sugerindo que fatores sociais e contextuais também possuem influência significativa.
 
 Integrantes:
-Marco Antônio Dall'Agnol Bortoluzzi - 1134328
-Henrique Daros
-Anderson
-Artur
+- Marco Antônio Dall'Agnol Bortoluzzi - 1134328
+- Henrique Daros
+- Anderson
+- Artur
