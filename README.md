@@ -11,4 +11,4 @@ Integrantes:
 - Marco Antônio Dall'Agnol Bortoluzzi - 1134328
 - Henrique Daros
 - Anderson Tavares
-- Artur
+- Artur Machado da Silva
