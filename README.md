@@ -10,5 +10,5 @@ A análise exploratória indicou que a temperatura média apresenta leve correla
 Integrantes:
 - Marco Antônio Dall'Agnol Bortoluzzi - 1134328
 - Henrique Daros
-- Anderson
+- Anderson Tavares
 - Artur
